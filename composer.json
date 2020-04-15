@@ -1,0 +1,13 @@
+{
+    "name": "phmiranda/desenvolvedor",
+    "description": "repositório criado durante a carreira de desenvolvedor PHP da alura.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phmiranda",
+            "email": "pehhagah.1607@gmail.com"
+        }
+    ],
+    "require": {}
+}
